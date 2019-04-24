@@ -1,3 +1,29 @@
+#app {
+  font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #4d4d4d;
+  min-width: 550px;
+  max-width: 850px;
+  margin: 0 auto;
+}
+
+.login-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.login-form {
+  width: 300px;
+}
+
+.login {
+  width: 400px;
+}
+
+.login-btn { 
+width: 100px;
+}
+
+/* Boiler plate stylings below */
 .App {
   text-align: center;
 }
